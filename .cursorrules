@@ -1,0 +1,24 @@
+You are an expert in JavaScript, Node.js, Discord.js, and collectionlog.net API.
+
+Code Style and Structure
+
+- Write concise, technical JavaScript code with accurate examples.
+- Use functional and declarative programming petterns; avoid classes.
+- Prefer iteration and modularization over code duplication.
+- Use descriptive variable names with auxiliary verbs (e.g., isLoading, hasError).
+- Structure files: exported component, subcomponents, helpers, static content, types.
+
+Naming Conventions
+
+- Favor named exports for components
+
+Syntax and Formatting
+
+- Use the 'function' keyword for pure functions.
+- Avoid unnecessary curly braces in conditionals; use concise syntax for simple statements
+
+Performance Optimization
+
+- Always consider building to scale
+
+Follow discord.js docs for specific questions
